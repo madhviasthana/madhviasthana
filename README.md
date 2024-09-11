@@ -1,5 +1,8 @@
 ## Hi there 👋, I'm Madhvi Asthana
 
+![My animated GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif) <!-- Replace with your GIF URL -->
+
+
 ### 🚀 About Me:
 I'm a Master's student specializing in Artificial Intelligence and Data Science, with experience in data analysis, machine learning, and software development. I love solving real-world challenges through data-driven insights and AI-driven innovation.
 
