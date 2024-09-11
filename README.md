@@ -23,6 +23,11 @@ I'm a Master's student specializing in Artificial Intelligence and Data Science,
 ### 🛠 Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-0177C0?style=for-the-badge&logo=powerbi&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=airflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0175C2?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 🌐 Find Me On:
 - [LinkedIn](https://www.linkedin.com/in/madhviasthana)
