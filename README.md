@@ -3,9 +3,6 @@
 ### 🚀 About Me:
 I'm a Master's student specializing in Artificial Intelligence and Data Science, with experience in data analysis, machine learning, and software development.
 
-![Girl with Computer Studying](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhlbDZ1d240bDd0Zzc0c21kbHA5MWM3ZnA5Ym12eHhxZjV4cjB3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy88cWKqBeBN92o/giphy.gif)
-
-
 - 🌱 Currently focusing on **Data Science** and **Machine Learning**.
 - 🔭 Working as a **Python Developer** at **IHP: Leibniz Institute for High Performance Microelectronics**.
 - 💻 I have hands-on experience in **Python**, **Data Pipelines**, **Machine Learning**, and more.
