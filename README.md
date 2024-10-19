@@ -14,7 +14,7 @@ I'm a Master's student specializing in Artificial Intelligence and Data Science,
 ### 📂 Latest Projects:
 - [Glucose Detection in Sugar Water Solution using Ultrasonic Velocity](https://github.com/madhviasthana/Glucose-Detection-in-Sugar-Water-Solution-using-Ultrasonic-Velocity)
 - [Food Delivery Web Application in Java](https://github.com/madhviasthana/Food-delivery-web-application-java)
-- [Invoice Final Backend in Java](https://github.com/madhviasthana/Invoice-Final-Backend)
+- [Netflix Clone using Vue Framework]([https://github.com/madhviasthana/Invoice-Final-Backend](https://github.com/madhviasthana/NetflixClone))
 - [Explore More Projects on My GitHub](https://github.com/madhviasthana?tab=repositories)
 
 ### 🛠 Skills:
