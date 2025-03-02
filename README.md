@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **madhviasthana9@gmail.com**
 
-- ⚡ Fun fact **I think I am funny, and I don't think A.I will turn into Skynet.**
+- ⚡ Fun fact **I talk to my code like it can hear me… and sometimes, it listens! 😇💻**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
