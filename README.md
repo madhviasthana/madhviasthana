@@ -1,19 +1,16 @@
-
-
 <h1 align="center"> Hi there 👋, I'm Madhvi Asthana</h1>
-<h3 align="center">A.I optimist & Full Stack Developer</h3>
+<h3 align="center">A.I Optimist & Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-- 🌱 I’m skilled in  **Machine Learning,OpenAI, LLMS,Langchain,Langraph**
-- 🌱 I’m skilled in  **VUE JS, FastAPI, MongoDB, SQL, Restful API's, HTML, CSS, JavaScript**
+- 🌱 I’m skilled in  **Machine Learning, OpenAI, LLMs, Langchain, Langraph**
+- 🌱 I’m skilled in  **Vue.js, FastAPI, MongoDB, SQL, RESTful APIs, HTML, CSS, JavaScript**
 
-  ### 📂 Latest Projects:
+### 📂 Latest Projects:
 - [Glucose Detection in Sugar Water Solution using Ultrasonic Velocity](https://github.com/madhviasthana/Glucose-Detection-in-Sugar-Water-Solution-using-Ultrasonic-Velocity)
 - [Food Delivery Web Application in Java](https://github.com/madhviasthana/Food-delivery-web-application-java)
 - [Netflix Clone using Vue Framework](https://github.com/madhviasthana/NetflixClone)
 - [Explore More Projects on My GitHub](https://github.com/madhviasthana?tab=repositories)
-
 
 - 📫 How to reach me **madhviasthana9@gmail.com**
 
