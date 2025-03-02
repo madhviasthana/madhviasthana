@@ -4,6 +4,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
+
+
 - 🌱 I’m skilled in  **Machine Learning, OpenAI, LLMs, Langchain, Langraph**
 - 🌱 I’m skilled in  **Vue.js, FastAPI, MongoDB, SQL, RESTful APIs, HTML, CSS, JavaScript**
 
