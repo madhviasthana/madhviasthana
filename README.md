@@ -1,6 +1,4 @@
 <h1 align="center"> Hi there 👋, I'm Madhvi Asthana</h1>
-madhviasthana - she/her
-
 <h3 align="center">AI Engineer & Full Stack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
