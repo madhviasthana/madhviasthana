@@ -3,10 +3,10 @@
 <h1 align="center"> Hi there 👋, I'm Madhvi Asthana</h1>
 <h3 align="center">A.I optimist & Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif">
 
 - 🌱 I’m skilled in  **Machine Learning,OpenAI, LLMS,Langchain,Langraph**
-- - 🌱 I’m skilled in  **VUE JS, FastAPI, MongoDB, SQL, Restful API's, HTML, CSS, JavaScript**
+- 🌱 I’m skilled in  **VUE JS, FastAPI, MongoDB, SQL, Restful API's, HTML, CSS, JavaScript**
 
   ### 📂 Latest Projects:
 - [Glucose Detection in Sugar Water Solution using Ultrasonic Velocity](https://github.com/madhviasthana/Glucose-Detection-in-Sugar-Water-Solution-using-Ultrasonic-Velocity)
